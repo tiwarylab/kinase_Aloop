@@ -20,7 +20,7 @@ In folder mdscripts
 * `distancemetad.py` - to run a metadynamics simulation using OP computed with SPIB with distances as input CVs
 * `kinaseCVs.py` - to extract the CVs we use
 
-To run the code, biases need to be downloaded from the drive linked above and run with the code in distancemetad.py
+To run the code, biases and initial structures need to be downloaded from the drive linked above and run with the code in distancemetad.py
 
 ## Citation
 
