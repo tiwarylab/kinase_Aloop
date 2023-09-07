@@ -15,11 +15,12 @@ Movies, bias files, and trajectories can be found [in this Drive](https://drive.
 
 In folder mdscripts
 * `openmm_utils.py` - functions required to run this instance of our methodology
-* `bias` - folder containing bias files and metadynamics parameter pckles required to run these simulations
 * `basicmd.py` - to run basic unbiased MD
 * `equilprotocol.py` - to run equilibration protocol as in the paper
-* `distancemetad.py` - to run a metadynamics
+* `distancemetad.py` - to run a metadynamics simulation using OP computed with SPIB with distances as input CVs
 * `kinaseCVs.py` - to extract the CVs we use
+
+To run the code, biases need to be downloaded from the drive linked above and run with the code in distancemetad.py
 
 ## Citation
 
