@@ -26,6 +26,8 @@ To run the code, biases need to be downloaded from the drive linked above and ru
 
 Please cite the following reference if using this protocol with or without the provided code:
 
+<<add arxiv link soon>>
+
 * "AlphaFold2-RAVE: From sequence to Boltzmann ensemble"
 Bodhi P. Vani, Akashnathan Aranganathan, Dedi Wang, Pratyush Tiwary
 J. Chem. Theory Comput. 2023; doi: https://doi.org/10.1021/acs.jctc.3c00290
