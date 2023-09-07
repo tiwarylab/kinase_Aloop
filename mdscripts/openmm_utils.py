@@ -325,9 +325,6 @@ def run_MD(positions,simulation,nsteps,ens='NVT',run_type='equil',temp=300,press
      
     
     if metadparams:
-        if checksteps:
-            while
-        else:
         meta.step(simulation,nsteps)
     else:
         simulation.step(nsteps)
