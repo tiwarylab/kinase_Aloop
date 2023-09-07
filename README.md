@@ -22,6 +22,9 @@ In folder mdscripts
 
 To run the code, biases and initial structures need to be downloaded from the drive linked above and run with the code in distancemetad.py
 
+Use the following command:
+
+distancemetad.py -source <first structure> -name <name> -metad <mutant name>_ -bias 1000000000
 ## Citation
 
 Please cite the following reference if using this protocol with or without the provided code:
